@@ -24,3 +24,14 @@ System.Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 System.Console.WriteLine(quotient2);
+
+int a = 5;
+int b = 3;
+int c = 2;
+int d = 7;
+int product4 = a * b;
+double sum4 = c + d;
+System.Console.WriteLine(product4);
+System.Console.WriteLine(sum4);
+double quotient4 = product4 / sum4;
+System.Console.WriteLine(quotient4);
