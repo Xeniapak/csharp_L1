@@ -1,0 +1,14 @@
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/bin/Debug/net8.0/Task2
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/bin/Debug/net8.0/Task2.dll
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.dll
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/kseniapak/Desktop/Обучение_начало/ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ/01_CSHARP/Lesson1/Task2/obj/Debug/net8.0/ref/Task2.dll
